@@ -1,1 +1,3 @@
-# grokking_graph_algorithms
+# grokking graph algorithms
+
+[[_toc_]]
