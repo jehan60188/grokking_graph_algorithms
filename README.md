@@ -1,3 +1,3 @@
 # grokking graph algorithms
 
-[[_toc_]]
+coming soon!
