@@ -1,1 +1,1 @@
-This section will include chapter 2 code
+There is no code for chapter 2
